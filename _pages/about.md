@@ -20,7 +20,7 @@ Background
 
 Recent News
 ======  
-**January 14, 2025, Accepted Paper*: Our paper *Hallucination Detection in LLMs: Fast and Memory-Efficient Fine-tuned Models* has been accepted to the Northern Lights Deep Learning (NLDL) conference. Last week, I had the privilege of delivering both an oral and a poster presentation, where I showcased our method and results.  
+**January 14, 2025, Accepted Paper**: Our paper *Hallucination Detection in LLMs: Fast and Memory-Efficient Fine-tuned Models* has been accepted to the Northern Lights Deep Learning (NLDL) conference. Last week, I had the privilege of delivering both an oral and a poster presentation, where I showcased our method and results.  
 [Paper](https://proceedings.mlr.press/v265/arteaga25a.html){: .btn--research}{:target="_blank"} [Slides](/files/NLDL_oral.pptx){: .btn--research}{:target="_blank"} [Poster](/files/Poster_Hallucination_Detection_in_LLMs.pdf){: .btn--research}{:target="_blank"} [Code](https://github.com/Gabriel-Arteaga/LLM-Ensemble){: .btn--research}{:target="_blank"}
 
 **October 23, 2024, PhD Lunch**: Organized a lunch for PhD students at the Department of Informatics which attracted 40 attendees.  
