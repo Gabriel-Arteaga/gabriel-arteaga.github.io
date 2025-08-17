@@ -20,6 +20,14 @@ Background
 
 Recent News
 ======  
+**August 14, 2025, Research Visit**: Began a five-week research stay in Tromsø, Norway, at the [UiT Machine Learning Group](https://machine-learning.uit.no/) at the Arctic University of Norway, hosted by Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer). 
+
+**June 20, 2025, Accepted Paper**: Our paper *SPoT: Subpixel Placement of Tokens in Vision Transformers* has been accepted to the Efficient Computing under Limited Resources: Visual Computing (ECLR) workshop at the International Conference on Computer Vision (ICCV) conference. We will present it on October 19 in Honolulu.   
+[Paper](https://arxiv.org/abs/2507.01654){: .btn--research}{:target="_blank"} [Project](https://dsb-ifi.github.io/SPoT/){: .btn--research}{:target="_blank"} [Code](https://github.com/dsb-ifi/SPoT){: .btn--research}{:target="_blank"}
+
+**June 10-14, 2025, Summer School**: Participated in the NORA Summer School on Multi-Modal Learning, organized by the Norwegian Artificial Intelligence Research Consortium (NORA) and hosted by Østfold University College in Fredrikstad.   
+[Official Website](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2025/){: .btn--research}{:target="_blank"} [Course Syllabus](https://uit.no/utdanning/emner/emne/872993/FYS-8604){: .btn--research}{:target="_blank"}
+  
 **January 14, 2025, Accepted Paper**: Our paper *Hallucination Detection in LLMs: Fast and Memory-Efficient Fine-tuned Models* has been accepted to the Northern Lights Deep Learning (NLDL) conference. Last week, I had the privilege of delivering both an oral and a poster presentation, where I showcased our method and results.  
 [Paper](https://proceedings.mlr.press/v265/arteaga25a.html){: .btn--research}{:target="_blank"} [Slides](/files/NLDL_oral.pptx){: .btn--research}{:target="_blank"} [Poster](/files/Poster_Hallucination_Detection_in_LLMs.pdf){: .btn--research}{:target="_blank"} [Code](https://github.com/Gabriel-Arteaga/LLM-Ensemble){: .btn--research}{:target="_blank"}
 
