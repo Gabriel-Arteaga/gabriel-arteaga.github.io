@@ -30,12 +30,12 @@ Selected Publications
     <strong>Why Prototypes Collapse: Diagnosing and Preventing Partial Collapse in Prototypical Self-Supervised Learning</strong><br>
     <u>Gabriel Y. Arteaga</u>, Marius Aasan, Rwiddhi Chakraborty, Martine Hjelkrem-Tan, Thalles Silva, Michael Kampffmeyer, Adín Ramírez Rivera<br>
     <em>International Conference on Learning Representations (ICLR), 2026</em><br>
+    <a href="https://dsb-ifi.github.io/proto-decoupling/"
+       class="btn btn--research" target="_blank">Project</a>
     <a href="https://arxiv.org/abs/2510.20108"
        class="btn btn--research" target="_blank">Paper</a>
     <a href="https://openreview.net/forum?id=fVJEWdwvLO"
        class="btn btn--research" target="_blank">OpenReview</a>
-    <a href="https://dsb-ifi.github.io/proto-decoupling/"
-       class="btn btn--research" target="_blank">Project</a>
     <a href="https://github.com/dsb-ifi/proto-decoupling"
        class="btn btn--research" target="_blank">Code</a>
   </div>
@@ -48,7 +48,15 @@ Selected Publications
   <div>
     <strong>SPoT: Subpixel Placement of Tokens in Vision Transformers</strong><br>
     Martine Hjelkrem-Tan, Marius Aasan, <u>Gabriel Y. Arteaga</u>, Adín Ramírez Rivera<br>
-    <em>ICCV Workshops (ECLR), 2025</em>
+    <em>CVF/ICCV Efficient Computing under Limited Resources: Visual Computing (ECLR) Workshop, 2025</em>
+    <a href="https://dsb-ifi.github.io/SPoT/"
+       class="btn btn--research" target="_blank">Project</a>
+    <a href="https://arxiv.org/abs/2507.01654"
+       class="btn btn--research" target="_blank">Paper</a>
+    <a href="https://openreview.net/forum?id=W35L9XRS8l#discussion"
+       class="btn btn--research" target="_blank">OpenReview</a>
+    <a href="https://github.com/dsb-ifi/SPoT"
+       class="btn btn--research" target="_blank">Code</a>
   </div>
 </div>
 
@@ -60,7 +68,12 @@ Selected Publications
     <strong>Hallucination Detection in LLMs: Fast and Memory-Efficient Finetuned Models</strong><br>
     <u>Gabriel Y. Arteaga</u>, Thomas B. Schön, Nicolas Pielawski<br>
     <em>Northern Lights Deep Learning Conference (NLDL), 2025</em><br>
-    <a href="https://openreview.net/forum?id=8T8QkDsuO9">Paper</a>
+    <a href="https://arxiv.org/abs/2409.02976"
+       class="btn btn--research" target="_blank">Paper</a>
+    <a href="https://openreview.net/forum?id=8T8QkDsuO9#discussion"
+       class="btn btn--research" target="_blank">OpenReview</a>
+    <a href="https://github.com/Gabriel-Arteaga/LLM-Ensemble"
+       class="btn btn--research" target="_blank">Code</a>
   </div>
 </div>
 
