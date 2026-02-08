@@ -18,6 +18,44 @@ Background
 - 2020-2022: [BSc in Applied AI](https://www.mdu.se/utbildning/program/kandidatprogrammet-i-tillampad-ai) at Mälardalen University, Sweden (Not completed).
 - 2018-2020: [BSc International Business Management](https://www.mdu.se/en/malardalen-university/education/international/programme/international-business-management) at Mälardalen University, Sweden.
 
+Selected Publications
+======
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <img src="/images/decoupling_framework.png"
+       alt="Why Prototypes Collapse"
+       style="width: 140px; margin-right: 1em; border-radius: 4px;" />
+  <div>
+    <strong>Why Prototypes Collapse: Diagnosing and Preventing Partial Collapse in Prototypical Self-Supervised Learning</strong><br>
+    <u>Gabriel Y. Arteaga</u>, Marius Aasan, Rwiddhi Chakraborty, Martine Hjelkrem-Tan, Thalles Silva, Michael Kampffmeyer, Adín Ramírez Rivera<br>
+    <em>International Conference on Learning Representations (ICLR), 2026</em><br>
+    <a href="https://openreview.net/forum?id=fVJEWdwvLO">Paper</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <img src="/images/spotveil.gif"
+       alt="SPoT"
+       style="width: 140px; margin-right: 1em; border-radius: 4px;" />
+  <div>
+    <strong>SPoT: Subpixel Placement of Tokens in Vision Transformers</strong><br>
+    Martine Hjelkrem-Tan, Marius Aasan, <u>Gabriel Y. Arteaga</u>, Adín Ramírez Rivera<br>
+    <em>ICCV Workshops (ECLR), 2025</em>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="/images/hall_detect_framework.png"
+       alt="Hallucination Detection in LLMs"
+       style="width: 140px; margin-right: 1em; border-radius: 4px;" />
+  <div>
+    <strong>Hallucination Detection in LLMs: Fast and Memory-Efficient Finetuned Models</strong><br>
+    <u>Gabriel Y. Arteaga</u>, Thomas B. Schön, Nicolas Pielawski<br>
+    <em>Northern Lights Deep Learning Conference (NLDL), 2025</em><br>
+    <a href="https://openreview.net/forum?id=8T8QkDsuO9">Paper</a>
+  </div>
+</div>
+
 Recent News
 ======  
 **August 14, 2025, Research Visit**: Began a five-week research stay in Tromsø, Norway, at the [UiT Machine Learning Group](https://machine-learning.uit.no/) at the Arctic University of Norway, hosted by Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer). 
