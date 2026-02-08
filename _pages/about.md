@@ -81,14 +81,14 @@ Recent News
 ======  
 **February 16, 2026, Research Visit**: I will conduct a six-week research visit at the University of Aberdeen in Scotland. The visit will focus on a joint project with Athinoulla Konstantinou on unifying invariant and equivariant self-supervised learning for visual data.
 
-**January 26, 2026, Accepted Paper**: Our paper, *Why Prototypes Collapse: Diagnosing and Preventing Partial Collapse in Prototypical Self-Supervised Learning*, has been accepted to the International Conference on Learning Representations (ICLR). 
+**January 26, 2026, Accepted Paper**: Our paper, *Why Prototypes Collapse: Diagnosing and Preventing Partial Collapse in Prototypical Self-Supervised Learning*, has been accepted to the International Conference on Learning Representations (ICLR).   
 [Paper](https://arxiv.org/abs/2510.20108){: .btn--research}{:target="_blank"} [Project](https://dsb-ifi.github.io/proto-decoupling/){: .btn--research}{:target="_blank"} [OpenReview](https://openreview.net/forum?id=fVJEWdwvLO){: .btn--research}{:target="_blank"} [Code](https://github.com/dsb-ifi/proto-decoupling){: .btn--research}{:target="_blank"}  
 
 **January 6-8, 2026, NLDL**: Attended the Northern Lights Deep Learning Conference (NLDL) in Tromsø, Norway.  
 
 **October 19-23, 2025, ICCV**: Attended the International Conference on Computer Vision (ICCV) in Honolulu, Hawai'i to present our paper *SPoT: Subpixel Placement of Tokens in Vision Transformers*.  
 
-**August 14, 2025, Research Visit**: Began a five-week research stay in Tromsø, Norway, at the [Machine Learning Group](https://machine-learning.uit.no/), UiT Arctic University of Norway, hosted by Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer). 
+**August 14, 2025, Research Visit**: Conducted a five-week research stay in Tromsø, Norway, at the [Machine Learning Group](https://machine-learning.uit.no/), UiT Arctic University of Norway, hosted by Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer). 
 
 **June 20, 2025, Accepted Paper**: Our paper *SPoT: Subpixel Placement of Tokens in Vision Transformers* has been accepted to the Efficient Computing under Limited Resources: Visual Computing (ECLR) workshop at the International Conference on Computer Vision (ICCV) conference. We will present it on October 19 in Honolulu.   
 [Paper](https://arxiv.org/abs/2507.01654){: .btn--research}{:target="_blank"} [Project](https://dsb-ifi.github.io/SPoT/){: .btn--research}{:target="_blank"} [Code](https://github.com/dsb-ifi/SPoT){: .btn--research}{:target="_blank"}
