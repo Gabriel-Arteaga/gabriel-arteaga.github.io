@@ -10,7 +10,7 @@ redirect_from:
 About
 ======
 I am a doctoral research fellow at the [Digitial Signal Processing and Image Analysis (DSB)](https://www.mn.uio.no/ifi/english/research/groups/dsb/) group at University of Oslo, Norway.
-My current research focuses on improving the stability and effectiveness of self-supervised learning (SSL) methods for visual data by leveraging under the advisement of Prof. [Adín Ramírez Rivera](https://adin.gitlab.io/) and Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer).
+My research focuses on enhancing the stability and effectiveness of self-supervised learning (SSL) methods for visual data, under the supervision of Prof. [Adín Ramírez Rivera](https://adin.gitlab.io/) and Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer).
 
 Education
 ======
