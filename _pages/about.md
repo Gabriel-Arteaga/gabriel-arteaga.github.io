@@ -10,13 +10,13 @@ redirect_from:
 About
 ======
 I am a doctoral research fellow at the [Digitial Signal Processing and Image Analysis (DSB)](https://www.mn.uio.no/ifi/english/research/groups/dsb/) group at University of Oslo, Norway.
-My current research focuses on improving the stability and effectiveness of self-supervised learning (SSL) methods by leveraging high-level supervisory signals to guide training, under the advisement of Prof. [Adín Ramírez Rivera](https://adin.gitlab.io/) and Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer).
+My current research focuses on improving the stability and effectiveness of self-supervised learning (SSL) methods for visual data by leveraging under the advisement of Prof. [Adín Ramírez Rivera](https://adin.gitlab.io/) and Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer).
 
 Education
 ======
-- 2024-2027: [PhD in Machine Learning](https://www.mn.uio.no/english/research/phd/)
+- 2024-2027: [PhD in Machine Learning](https://www.mn.uio.no/english/research/phd/) at [DSB Group](https://www.mn.uio.no/ifi/english/research/groups/dsb/), University of Oslo, Norway.
 - 2022-2024: [MSc in Data Science](https://www.uu.se/en/study/programme/masters-programme-data-science-machine-learning-and-statistics) at Uppsala University, Sweden.
-- 2020-2022: [BSc in Applied AI](https://www.mdu.se/utbildning/program/kandidatprogrammet-i-tillampad-ai) at Mälardalen University, Sweden (Not completed).
+- 2020-2022: [BSc in Applied AI](https://www.mdu.se/utbildning/program/kandidatprogrammet-i-tillampad-ai) at Mälardalen University, Sweden.
 - 2018-2020: [BSc International Business Management](https://www.mdu.se/en/malardalen-university/education/international/programme/international-business-management) at Mälardalen University, Sweden.
 
 Selected Publications
@@ -48,7 +48,7 @@ Selected Publications
   <div>
     <strong>SPoT: Subpixel Placement of Tokens in Vision Transformers</strong><br>
     Martine Hjelkrem-Tan, Marius Aasan, <u>Gabriel Y. Arteaga</u>, Adín Ramírez Rivera<br>
-    <em>CVF/ICCV Efficient Computing under Limited Resources: Visual Computing (ECLR) Workshop, 2025</em>
+    <em>CVF/ICCV Efficient Computing under Limited Resources: Visual Computing (ECLR) Workshop, 2025</em><br>
     <a href="https://dsb-ifi.github.io/SPoT/"
        class="btn btn--research" target="_blank">Project</a>
     <a href="https://arxiv.org/abs/2507.01654"
@@ -79,13 +79,24 @@ Selected Publications
 
 Recent News
 ======  
-**August 14, 2025, Research Visit**: Began a five-week research stay in Tromsø, Norway, at the [UiT Machine Learning Group](https://machine-learning.uit.no/) at the Arctic University of Norway, hosted by Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer). 
+**February 16, 2026, Research Visit**: I will conduct a six-week research visit at the University of Aberdeen in Scotland. The visit will focus on a joint project with Athinoulla Konstantinou on unifying invariant and equivariant self-supervised learning for visual data.
+
+**January 26, 2026, Accepted Paper**: Our paper, *Why Prototypes Collapse: Diagnosing and Preventing Partial Collapse in Prototypical Self-Supervised Learning*, has been accepted to the International Conference on Learning Representations (ICLR). 
+[Paper](https://arxiv.org/abs/2510.20108){: .btn--research}{:target="_blank"} [Project](https://dsb-ifi.github.io/proto-decoupling/){: .btn--research}{:target="_blank"} [OpenReview](https://openreview.net/forum?id=fVJEWdwvLO){: .btn--research}{:target="_blank"} [Code](https://github.com/dsb-ifi/proto-decoupling){: .btn--research}{:target="_blank"}  
+
+**January 6-8, 2026, NLDL**: Attended the Northern Lights Deep Learning Conference (NLDL) in Tromsø, Norway.  
+
+**October 19-23, 2025, ICCV**: Attended the International Conference on Computer Vision (ICCV) in Honolulu, Hawai'i to present our paper *SPoT: Subpixel Placement of Tokens in Vision Transformers*.  
+
+**August 14, 2025, Research Visit**: Began a five-week research stay in Tromsø, Norway, at the [Machine Learning Group](https://machine-learning.uit.no/), UiT Arctic University of Norway, hosted by Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer). 
 
 **June 20, 2025, Accepted Paper**: Our paper *SPoT: Subpixel Placement of Tokens in Vision Transformers* has been accepted to the Efficient Computing under Limited Resources: Visual Computing (ECLR) workshop at the International Conference on Computer Vision (ICCV) conference. We will present it on October 19 in Honolulu.   
 [Paper](https://arxiv.org/abs/2507.01654){: .btn--research}{:target="_blank"} [Project](https://dsb-ifi.github.io/SPoT/){: .btn--research}{:target="_blank"} [Code](https://github.com/dsb-ifi/SPoT){: .btn--research}{:target="_blank"}
 
 **June 10-14, 2025, Summer School**: Participated in the NORA Summer School on Multi-Modal Learning, organized by the Norwegian Artificial Intelligence Research Consortium (NORA) and hosted by Østfold University College in Fredrikstad.   
 [Official Website](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2025/){: .btn--research}{:target="_blank"} [Course Syllabus](https://uit.no/utdanning/emner/emne/872993/FYS-8604){: .btn--research}{:target="_blank"}
+
+**January 23, 2025, PhD Contract Extension**: I received a one-month extension to my PhD contract to support the organization of social activities for PhD candidates in the Department of Informatics, including the coordination of monthly lunches.  
   
 **January 14, 2025, Accepted Paper**: Our paper *Hallucination Detection in LLMs: Fast and Memory-Efficient Fine-tuned Models* has been accepted to the Northern Lights Deep Learning (NLDL) conference. Last week, I had the privilege of delivering both an oral and a poster presentation, where I showcased our method and results.  
 [Paper](https://proceedings.mlr.press/v265/arteaga25a.html){: .btn--research}{:target="_blank"} [Slides](/files/NLDL_oral.pptx){: .btn--research}{:target="_blank"} [Poster](/files/Poster_Hallucination_Detection_in_LLMs.pdf){: .btn--research}{:target="_blank"} [Code](https://github.com/Gabriel-Arteaga/LLM-Ensemble){: .btn--research}{:target="_blank"}
