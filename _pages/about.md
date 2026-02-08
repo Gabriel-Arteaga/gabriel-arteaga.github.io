@@ -12,8 +12,9 @@ About
 I am a doctoral research fellow at the [Digitial Signal Processing and Image Analysis (DSB)](https://www.mn.uio.no/ifi/english/research/groups/dsb/) group at University of Oslo, Norway.
 My current research focuses on improving the stability and effectiveness of self-supervised learning (SSL) methods by leveraging high-level supervisory signals to guide training, under the advisement of Prof. [Adín Ramírez Rivera](https://adin.gitlab.io/) and Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer).
 
-Background
+Education
 ======
+- 2024-2027: [PhD in Machine Learning](https://www.mn.uio.no/english/research/phd/)
 - 2022-2024: [MSc in Data Science](https://www.uu.se/en/study/programme/masters-programme-data-science-machine-learning-and-statistics) at Uppsala University, Sweden.
 - 2020-2022: [BSc in Applied AI](https://www.mdu.se/utbildning/program/kandidatprogrammet-i-tillampad-ai) at Mälardalen University, Sweden (Not completed).
 - 2018-2020: [BSc International Business Management](https://www.mdu.se/en/malardalen-university/education/international/programme/international-business-management) at Mälardalen University, Sweden.
@@ -29,7 +30,14 @@ Selected Publications
     <strong>Why Prototypes Collapse: Diagnosing and Preventing Partial Collapse in Prototypical Self-Supervised Learning</strong><br>
     <u>Gabriel Y. Arteaga</u>, Marius Aasan, Rwiddhi Chakraborty, Martine Hjelkrem-Tan, Thalles Silva, Michael Kampffmeyer, Adín Ramírez Rivera<br>
     <em>International Conference on Learning Representations (ICLR), 2026</em><br>
-    <a href="https://openreview.net/forum?id=fVJEWdwvLO">Paper</a>
+    <a href="https://arxiv.org/abs/2510.20108"
+       class="btn btn--research" target="_blank">Paper</a>
+    <a href="https://openreview.net/forum?id=fVJEWdwvLO"
+       class="btn btn--research" target="_blank">OpenReview</a>
+    <a href="https://dsb-ifi.github.io/proto-decoupling/"
+       class="btn btn--research" target="_blank">Project</a>
+    <a href="https://github.com/dsb-ifi/proto-decoupling"
+       class="btn btn--research" target="_blank">Code</a>
   </div>
 </div>
 
