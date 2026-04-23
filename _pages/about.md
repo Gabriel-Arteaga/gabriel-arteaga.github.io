@@ -10,7 +10,7 @@ redirect_from:
 About
 ======
 I am a doctoral research fellow at the [Digitial Signal Processing and Image Analysis (DSB)](https://www.mn.uio.no/ifi/english/research/groups/dsb/) group at University of Oslo, Norway.
-My research focuses on enhancing the stability and effectiveness of self-supervised learning (SSL) methods for visual data, under the supervision of Prof. [Adín Ramírez Rivera](https://adin.gitlab.io/) and Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer).
+My research focuses on enhancing the stability and effectiveness of self-supervised learning (SSL) methods for natural images, under the supervision of Prof. [Adín Ramírez Rivera](https://adin.gitlab.io/) and Prof. [Michael Kampffmeyer](https://sites.google.com/view/michaelkampffmeyer).
 
 Education
 ======
@@ -42,18 +42,35 @@ Selected Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <img src="/images/pos_noise_compact.png"
+       alt="SOAP"
+       style="width: 140px; margin-right: 1em; border-radius: 4px;" />
+  <div>
+    <strong>Suppressing Non-Semantic Noise in Masked Image Modeling Representations</strong><br>
+    Martine Hjelkrem-Tan, Marius Aasan, Rwiddhi Chakraborty, <u>Gabriel Y. Arteaga</u>, Changkyu Choi, Adín Ramírez Rivera<br>
+    <em>Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em><br>
+    <a href="https://dsb-ifi.github.io/soap/"
+       class="btn btn--research" target="_blank">Project</a>
+    <a href="https://arxiv.org/abs/2604.00172"
+       class="btn btn--research" target="_blank">Paper</a>
+    <a href="https://github.com/dsb-ifi/soap"
+       class="btn btn--research" target="_blank">Code</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
   <img src="/images/spotveil.gif"
        alt="SPoT"
        style="width: 140px; margin-right: 1em; border-radius: 4px;" />
   <div>
     <strong>SPoT: Subpixel Placement of Tokens in Vision Transformers</strong><br>
     Martine Hjelkrem-Tan, Marius Aasan, <u>Gabriel Y. Arteaga</u>, Adín Ramírez Rivera<br>
-    <em>CVF/ICCV Efficient Computing under Limited Resources: Visual Computing (ECLR) Workshop, 2025</em><br>
+    <em>Transactions on Machine Learning Research (TMLR), 2026</em><br>
     <a href="https://dsb-ifi.github.io/SPoT/"
        class="btn btn--research" target="_blank">Project</a>
     <a href="https://arxiv.org/abs/2507.01654"
        class="btn btn--research" target="_blank">Paper</a>
-    <a href="https://openreview.net/forum?id=W35L9XRS8l#discussion"
+    <a href="https://openreview.net/forum?id=XrBzSmzAVo"
        class="btn btn--research" target="_blank">OpenReview</a>
     <a href="https://github.com/dsb-ifi/SPoT"
        class="btn btn--research" target="_blank">Code</a>
@@ -79,6 +96,9 @@ Selected Publications
 
 Recent News
 ======  
+**April 9, 2026, Accepted Paper**: Our paper, *Suppressing Non-Semantic Noise in Masked Image Modeling Representations*, has been accepted to the Conference on Computer Vision and Pattern Recognition (CVPR).   
+[Paper](https://arxiv.org/abs/2604.00172){: .btn--research}{:target="_blank"} [Project](https://dsb-ifi.github.io/soap/){: .btn--research}{:target="_blank"} [Code](https://github.com/dsb-ifi/soap){: .btn--research}{:target="_blank"}  
+
 **February 16, 2026, Research Visit**: I will conduct a six-week research visit at the University of Aberdeen in Scotland. The visit will focus on a joint project with Athinoulla Konstantinou on unifying invariant and equivariant self-supervised learning for visual data.
 
 **January 26, 2026, Accepted Paper**: Our paper, *Why Prototypes Collapse: Diagnosing and Preventing Partial Collapse in Prototypical Self-Supervised Learning*, has been accepted to the International Conference on Learning Representations (ICLR).   
